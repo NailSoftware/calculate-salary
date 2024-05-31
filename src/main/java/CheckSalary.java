@@ -1,6 +1,6 @@
 public class CheckSalary {
     public static void main(String[] args) {
-
+// Qaqa kodun sehvdi
         var salary = new Salary();
 
         if (salary.calculateTotalSalary(1200)) {
